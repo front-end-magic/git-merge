@@ -46,4 +46,5 @@ nav div, nav ul li{
 }
 header{
     background: linear-gradient(90deg, #aaa, cyan);
+    color: darkslateblue;
 }
