@@ -21,3 +21,22 @@ display: flex;
 justify-content: space-between;
 width: 50%;
 }
+
+nav div{
+    text-align: left;
+    background-color: #333;
+    border-radius: 5%;
+    padding: 5px 20px;
+}
+nav ul li{
+display: flex;
+justify-content: space-between;
+list-style: none;
+  
+}
+nav div, nav ul li{
+    background-color: #333;
+    border-radius: 15%;
+    padding: 5px 20px;
+
+}
